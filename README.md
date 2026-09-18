@@ -1,3 +1,4 @@
-﻿# IADM - JUST RUN THE BINARY EXE
+﻿# IADM - a internet download manager.
 
-- the only rule: YOU CANNOT COPY THIS SOURCE CODE AND RESUBMIT IT IN PUBLIC MODE. IT WILL CAUSE LEGAL ACTION
+## Terms
+- can use freely as long as modified versions dont get disturbuited
